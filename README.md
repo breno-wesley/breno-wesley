@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo: Python, HTML, CSS, JS
 
-- 👀 Já tive contato: C, C++, Java, Node, MySQL, Insomnia
+- 👀 Já tive contato: Assembly, C, C++, Java, Node, Nest.js, MySQL, Insomnia, Prisma
 
 - ⚡ Curiosidades: Tenho conhecimento com microncontroladores (Arduino)
 
